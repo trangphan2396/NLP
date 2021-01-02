@@ -1,0 +1,169 @@
+Einleitung:
+
+Die Welt verändert sich dank technologischer Sprünge allmählich.Das ist total wunderschön. Heutzutage erscheinen die Begriffe "Industrie 4.0", künstliche Intelligenz, Internet der Dinge oder Big Data populär auf den Medien. Das moderne Leben erfordert, dass die Menschen die neuen Trends der Welt schnell erfassen. Außerdem brauchen die Menschen effektive Werkzeuge, um effektiver arbeiten zu können.
+Man stelle sich vor, ein Mitarbeiter wird beauftragt, einen Veranstaltungsort für ein Workshop der Firma und ein Restaurant für die Feier nach der Veranstaltung zu suchen. Selbstverständlich ruft er Google auf, tippt die Schlüsselwörter über den Veranstaltungsort ein und liest hunderte Bewertungen, bevor er den am besten geeigneten Ort auswählt. Darüber hinaus muss er ein passendes Restaurant in der Nähe von den Veranstaltungsort suchen. Kurz gesagt, er muss viel Zeit damit verbringen, dutzende von Websites zu besuchen, bevor er eine Entscheidung trifft. 
+Jedoch glauben Internet-Experten, dass das Web 3.0, auch als Semantic Web bekannt, diese Aufgabe einfacher und schneller lösen wird. Anstatt mehrere Suchanfragen durchführen zu müssen, erhalten Semantic Web-Benutzer die klarste Verbindung zu Gastinformationen. Das Web erstellt eine geeignete Auswahl in Form eines Verzeichnisses und gibt Vorschläge für die geeignetsten Orte, ideal zu den persönlichen Präferenzen.
+Anhand des obigen Beispiels ist ersichtlich, dass das Semantic Web die Benutzer bei der Recherche und Verwendung von Informationen bedeutend unterstützt. Dies wird im Folgendem ausführlicher behandelt.
+Die Ziele dieser Hausarbeit ist es, einen Überblick über das Semantic Web und Anwendungen der semantischen Technologie in verschiedenen Bereichen zu geben.
+Die Fragestellung zu dieser Hausarbeit ist: "Warum spielt das Semantic Web eine wichtige Rolle bei der Optimierung der Datennutzung?"
+
+Darüber hinaus ist die Hausarbeit in vier Hauptpunkte gegliedert:
+
+1.	Das Web und seine Probleme
+2.	Definition des Semantic Webs
+3.	Ontologie und Semantic Web zum Informationsaustausch
+4.	Die Anwendung der semantischen Technologien in Unternehmen
+
+Der Abschluss besteht aus der Zusammenfassung der Hausarbeit und die Antwort der Leitfrage.
+
+
+
+1.	Das Web und seine Probleme
+
+Die auffälligste Ausprägung der rasanten Entwicklung des Informationsaustauschs in vielen Bereichen war die Geburt des World Wide Web (auch kurz das Web genannt) *.
+
+Das Web ist ein globaler Informationsraum, in dem Menschen über Geräte, die mit dem Internet verbunden sind, auf Informationen zugreifen (lesen und schreiben) können. Ein Informationssystem im Internet kann mit den Dokumenten mithilfe von Hypertext-Links verknüpft werden, die mit der Hypertext Markup Language (HTML) formatiert sind, sodass Benutzer nach Informationen suchen können, indem sie von einem Dokument zu einem anderen wechseln. In einem solchen Format können eingebettete Hyperlinks URLs enthalten und Benutzer können problemlos zu anderen Webressourcen navigieren. Einfach ausgedrückt ist das World Wide Web ein Begriff, der sich auf alle verbundenen HTML-Seiten bezieht, auf die über das Internet zugegriffen werden kann. Neben Text können Webseiten Bild-, Video-, Audio- und Softwarekomponenten enthalten, die im Webbrowser eines Benutzers als Seiten mit Multimedia-Inhalten angezeigt werden.
+
+Grundsätzlich kann man jederzeit und überall auf Informationen zugreifen. Die Informationen werden aktualisiert und stehen uns je nach Bedürfnissen zur Verfügung. Darüber hinaus macht diese weniger aufwändige und kostenintensive Methode die Informationsbeschaffung für eine breitere Bevölkerung zugänglicher.
+
+Allerdings ist die Suche nach Informationen noch eingeschränkt. Obwohl Suchmaschinen wie Google, Bing usw. ausgefeilte statistische Methoden verwenden, liefert diese Technik nur stichwortbasierte Ergebnisse bei Benutzerfragen, die ein Fülle von Informationen liefern, welche aber schwer zu filtern sind. Wenn ein Benutzer beispielsweise nach Informationen zum Wort „Kohl“ sucht, werden die Ergebnisse als Gemüse oder als Name eines deutschen Kanzlers angezeigt. Selbstverständlich möchten Benutzer auch auf semantischer Ebene Informationen finden, die mehr Inhalt enthalten. *
+
+Außerdem erschweren unorganisierte und überlappende Informationen auf einer Website, Informationen über einen im Web verteilten Bereich zu sammeln, standardisiert darzustellen oder wiederzuverwenden. 
+
+Schließlich ist es denkbar, dass die Heterogenität der verfügbaren Informationen die Benutzer in der Suche nach Informationen stört.
+
+Durch die Nachteile von Web 2.0 verbessern Internet-Experten schrittweise die neue Web-Generation, die Web 3.0 genannt wird.
+
+
+
+2.	Defintion Semantic Web
+
+2.1.Definition
+
+Das semantische Web ist eine neue Generation von Web, die auf dem aktuellen Web 2.0-System entwickelt wurde, indem den Webressourcen Semantik hinzugefügt wurde, die der Computer verstehen und die Fähigkeit zur automatischen Verarbeitung verbessern kann.
+
+Der Begriff „Semantic Web“ wurde von Tim Berners-Lee wie folgt definiert: 
+„Das Semantic Web ist kein eigenständiges Web, sondern eine Erweiterung des aktuellen Web, in dem Informationen eine klar definierte Bedeutung erhalten, die es Computern und Menschen ermöglicht, besser zusammenzuarbeiten.“ S3-4
+
+Das Semantic Web ist ein Beziehungsgeflecht zwischen Entitäten. Daher besteht seine Aufgabe darin, als virtuelle Modellbasis so zu fungieren dass die Mitarbeiter des Produktdesigns über eine Clientschnittstelle allgegenwärtigen Zugriff auf das Produktmodell haben und gleichzeitig die Semantik und den Kontext verstehen können der Informationen. S127. Product Lifecycle Management to Support Industry 4.0
+
+
+
+2.2. Semantic Web Schichtenarchitektur
+
+Das Semantic Web ist eine Sammlung (stack) von Sprachen. Alle Semantic Web-Klassen werden verwendet, um die besten Sicherheits- und Wertinformationen zu gewährleisten.
+
+ 
+Semantic Web Schichtenarchitektur
+https://miro.medium.com/max/3380/1*YQ04iyBrbq-VrQwkzCMkkA.png
+Smart (Cognitive) Applications and Services:
+Smart Applications and Services (Intelligente Anwendungen und Dienste) werden deklarativ (und nicht zwingend) erstellt, wobei Datenmodelle, Interaktion und Visualisierung lose gekoppelt werden und mit dem allgemein verstandenen MVC-Muster (Model, View, Controller) übereinstimmen. Darüber hinaus nutzen Interaktion und Visualisierung die Beziehungssemantik (sowohl für Menschen als auch für Maschinen verständlich), die das Datenmodell bildet, was der Mischung Erkenntnis (Argumentation und Folgerung) hinzufügt.
+
+Trust:
+Trust ist an überprüfbare Aussagen über Identität, Herkunft des Inhalts und verwandte Angelegenheiten gebunden. Die heutigen Anwendungen werden weiterhin durch den Grundbegriff der Identität in Frage gestellt.
+Proof:
+“Proof of Work” bietet eine flexible Grundlage für Trust. Heutzutage verfügen wir in der Regel über die Zwei-Faktor-Authentifizierung, die häufig eher von Social-Media-Anbietern zum Erfassen von Telefonnummern (leistungsstarken Kennungen) verwendet wird, die letztendlich zu mehr Spam und anderen Datenschutzverletzungen über Mobiltelefone führen, als ein zuverlässiger Beweis für irgendetwas.
+
+Transmission Security (using Crypto):
+Transmission Security bezieht sich auf den drahtlosen Schutz von Daten während der Übertragung, der unter Verwendung bestehender Standards durchgeführt wird, die von Public Key Infrastructure (PKI) und Transport Layer Security (TLS) abgedeckt werden und integrierte Unterstützung für Kryptografie bieten (die selbst von einer Sammlung behandelt wird) von Standards für digitale Signaturen und Inhaltsverschlüsselung).
+
+Unifying Logic:
+Logik erster Ordnung dient als konzeptionelles Schema, um das Daten modelliert und verstanden werden. Vorschläge (oder Ansprüche) bilden eine Grundlage für die Lösungsentwicklung, ohne auf eine bestimmte Anwendung beschränkt zu sein.
+
+Rules:
+Rules sind Voraussetzungen, auf denen Argumentation und Schlussfolgerung gezogen werden können. Diese haben die Form von Sprachen, um zu beschreiben, was eine Prämisse ausmacht.
+-	R2RML - zur Beschreibung, wie Entity-Relationship-Typen (Relationen), die als "Datensätze in einer Tabelle" dargestellt werden, in "Sätze / Anweisungen in RDF-Sprache" umgewandelt werden.
+-	SWRL und SPIN - zur Beschreibung, wie neue Entitätsbeziehungen basierend auf vorhandenen Daten dynamisch materialisiert werden können
+-	SHACL - zur Beschreibung der Integritätsbeschränkungen für die Dateneingabe, die beim Erstellen strukturierter Daten mit RDF verwendet werden sollen
+
+Query:
+Für Query gibt es SPARQL für Operationen zur deklarativen Datendefinition (DDL) und Datenmanipulation (DML) für strukturierte Daten, die als RDF-Sätze / -Anweisungen dargestellt werden. SPARQL ist auch ein praktischer Standard zum Erweitern von SQL (ein weiterer offener Standard), wodurch die Abhängigkeit von proprietären herstellerspezifischen SQL-Erweiterungen als erster (oder einziger) Anlaufpunkt verringert wird.
+
+Dictionaries:
+Dictionaries (Wörterbücher - auch als Vokabulare oder Ontologien bezeichnet) für Sammlungen formaler Definitionen, die Entitäten und Entitätsbeziehungstypen (Klassen und Eigenschaften) beschreiben. RDF, RDFS, OWL und Schema.org sind Schlüsselbeispiele.
+
+Abstract Language:
+RDF als Sprache bietet eine systematische Verwendung von Zeichen (Bezeichnern), Syntax (Subjekt → Prädikat → Objekt) und Semantik (die Bedeutungen der Subjekt-, Prädikat- und Objektrollen) zum Codieren und Decodieren von Informationen (Daten in einem bestimmten Kontext). Natürlich ist der Kontext (oder die Perspektive) eine Funktion der in diesen Aussagen verwendeten Begriffe.
+
+Sentence Part Identifiers:
+Bezeichner sind Zeichen, mit denen Entitäten eindeutig benannt (oder identifiziert) werden. Darüber hinaus können sie verwendet werden, um das Subjekt, Prädikat und Objekt eines RDF-Satzes zu identifizieren.
+Alternativ können Sie HTTP-IRIs oder URIs als bevorzugten Bezeichnertyp für die RDF-Satzkonstruktion verwenden, um die doppelten Effekte von Bezeichnung und Konnotation in Ihr Notizen-Bestreben einzubeziehen.
+
+Document Types:
+Als beim Notieren in natürlicher Sprache müssen die Sätze letztendlich in einer dauerhaften Form gespeichert werden, in der Dokumente und ihre Typen funktionieren.
+Bei RDF-Sätzen werden die Symbole (Subjektausdrücke → Prädikate → Objektsätze) und die serielle Formatierung lose kombiniert. Daher ist es möglich, Sätze mit einem endgültigen Symbol zu erstellen, das sich vom endgültigen Serialisierungsformat unterscheidet, das zum Erstellen eines Dokuments für die Langzeitarchivierung verwendet wird.
+
+Semantic Web of Linked Data:
+Semantic Web of Linked Data ist der letzte Teil der semantischen Webstruktur, der aus der Verwendung von HTTP, URI und IRI in RDF-Sprachanweisungen abgeleitet wird, die in vielen Arten von Dokumenten gespeichert sind, die auf das Netzwerk zugreifen können.
+
+Zusammengefasst ist die Architektur des Semantic Webs eine komplexe, kohärente, einheitliche und sehr zusammenhängende Struktur. Insbesondere die Ontologie spielt eine wichtige Rolle beim Aufbau des semantischen Websystems.
+
+Im nächsten Kapitel wird genauer in die Ontologie sowie deren Anwendung für Informationsaustausch eingegangen.
+
+
+3.	Ontologiebasierter Informationsaustausch
+
+a.	Definition des Begriffs Ontologie:
+„Die Ursprünge der Bedeutung des Begriffs Ontologie stammen aus der Philosophie (speziell aus der griechischen) […]. Eine Ontologie beschreibt also einen Wissensbereich mittels einer standardisierten Terminologie. Die definiert ein gemeinsames Vokabular und Verständnis. Weiterhin muss sie maschinell lesbar und interpretierbar, aber auch für Menschen leicht verständlich sein.“ * S69- Anwendung 
+
+In der Informatik ist Ontologie im Allgemeinen "eine Ontologie ist eine explizite, formale Spezifikation von Begriffen in einer Domäne und den Beziehungen zwischen diesen Begriffen" S127-2018, das heißt, eine Ontologie ist eine Datenstruktur von Wissensdomänenkonzepten und wie sie effektiv miteinander in einem maschinenlesbaren Format umgehen. Es enthält ein allgemeines Vokabular mit Begriffen, wichtigen Attributen und Definitionen dieser Begriffe. Zusätzlich zum Vokabelsatz bietet die Ontologie Einschränkungen, die manchmal als Grundannahmen über die gewünschte Bedeutung des Vokabelsatzes bezeichnet werden, der in einer Domäne verwendet wird, die zwischen Personen und anderen zerstreuten Anwendungssystemen kommuniziert werden kann. Der Zugriff auf semantische Webressourcen über Ontologien ist flexibler, da der Benutzer den Wortschatz und die Einschränkungen in den Ontologien auswählen kann. Beispielsweise können Anwendungen in verschiedenen Domänen unterschiedliche Ontologien verwenden.
+
+T.R. Gruber, “A Translation Approach to Portable Ontology Specifications,” Knowledge Acquisition, vol. 5, 1993, pp. 199–220
+
+Fensel, D., van Harmelen, F., Horrocks, I., McGuinness, D. L., & Patel-Schneider, P. F. (2001). "OIL: an ontology infrastructure for the Semantic Web". In: Intelligent Systems. IEEE, 16(2): 38–45.
+
+
+
+b.	Required infrastructure
+
+
+ 
+
+Abbildung 2: Konzeptionelle Architektur des Übersetzungswissens
+S40 InfoShare
+
+
+Shared Terminology: Diese gemeinsame Terminologie wird mithilfe von „structural patterns“ mit dem spezifischen Integrationsproblem verknüpft. Ein „structural patterns“ ist eine allgemeine Spezifikation der Beziehungen zwischen Objekten, die in der gemeinsamen Terminologie durch die Wörter gekennzeichnet sind. Um diese Beziehungen auf Informationsobjekte anwenden zu können, ist die gemeinsame Terminologie in einer einfachen logischen Struktur codiert, die aus einer Menge von entsprechenden Begriffen und einer Menge von Axiomen besteht. Die Axiome definieren die Synonym-, Hypernym- und Hyponymrelationen zwischen Begriffen im Term der Unterordnungsrelation.
+
+Shared Ontology: stellen uns ein Vokabular zur Verfügung, mit dem die Semantik von Informationen in vserschiedenen Quellen spezifiziert werden kann. Um die Semantik von Typen in einer Informationsquelle zu erfassen, wird eine umfangreichere Sprache benötigt. Deshalb definiert „source ontology“ die Bedeutung bestimmter in der Quelle verwendeter Klassifizierungen, die aus einer Reihe von Klassendefinitionen bestehen.
+
+
+Source Ontology: Unter der Annahme von „source ontology“ kann terminologische Überlegungen zur Definition der darin enthaltenen Klassen angestellt werden, indem die Axiome aus der gemeinsamen Ontologie, die Definitionen der Beziehungen und die Menge der Klassendefinitionen berücksichtigt werden. Zusammen bilden diese Elemente eine terminologische Wissensbasis, die von geeigneten Begründern der Beschreibungslogik verwendet werden kann, um Standard-Inferenzdienste wie Klassifizierung und Abruf bereitzustellen.
+
+Die Verwendung der Ontologie ist ein unkomplizierter Ansatz, um kontextbezogene Informationen zu erläutern und eine semantische Erhaltungsübersetzung zu erstellen. Dabei werden Informationen mit semantischer Genauigkeit ausgetauscht, um den vollständigen Inhalt sicherzustellen und Missverständnisse zu vermeiden.
+4.	Semantische Anwendung in Unternehmen
+
+4.1.	Übersicht über semantische Anwendung
+
+Heutzutage wird die semantische Technologie in Unternehmen bzw. Organisationen verschiedener Branchen angewendet. Bespielweise sind Medizin, Energie, Logistik, verarbeitende Industrie, Telekomunikation, Tourismus, Bibliotheks- und Verlagswesen und Kultur. Darunter ist eine Übersicht über die Branchen und Themenbereiche beschriebenen semantischen Anwendungen.
+ 
+Abbildung 3: Branchen und Themenbereiche der im Buch beschriebenen semantischen Anwendungen. 
+Die Zahlen sind Kapitelnummern (Graphik von Thomas Hoppe)
+
+4.2.	 Semantische Analyse und Suche in Kundenspezifikationen (Ontos AG)
+
+Das Beispiel ist ein Kundenprojekt aus dem Bereich Maschinenbau, das von einem Schweizer Unternehmen - der Ontos AG - neu realisiert wurde. Der Kunde arbeitet bei der Verkaufsabteilung eines technischen Experten für Steuerungslösungen, der sich mit Hunderten von Spezifikationen befassen muss, die von internationalen Kunden verlangt werden.
+
+Bei der Bearbeitung von Kundenanfragen müssen die Spezifikationen zunächst auf ihre Relevanz analysiert werden, damit die entsprechenden Angebote erstellt werden können. Die Firma hat das hauseigene Toolkit Onto Linked Data Information Workbench (OntosLDIW) den Projektanforderungen entsprechend angepasst. 
+
+ 
+Abbildung 4: Adaptierte OntosLDIW im Überblick S27
+
+Durch die Methoden der semantischen Technologie findet die Onto AG die Lösungen, um Dokumente zu extrahieren, zu analysieren und zu indexieren, Informationen und Wissen zu verwalten und Daten schnell zu suchen und zu filtern. Diese Prozesse werden unter einer mehrsprachigen Ontologie gespeichert. Die Ontos AG hat die WC3-Standars angewendet, um das Web aufzubauen. 
+
+
+
+Zusamenfassung
+
+Nun antworte ich die Leitfrage: "Warum spielt das Semantic Web eine wichtige Rolle bei der Optimierung der Datennutzung?"
+
+Das Semantic Web sowie semantische Technologien haben eine hohe Bedeutung für das Suchen und Austauschen von Informationen, da sie Lösungen für Probleme des Webs 2.0 bieten. Der Computer kann die semantische Ebene die Benutzerfragen verstehen und genauere und umfassendere Suchergebnisse erzielen. Somit werden Informationsquellen auf der Website systematischen und logischen Klassifikationen zugeordnet.
+
+Hierbei spielt die Ontologie eine Schlüsselrolle bei der Bereitstellung zugänglicher Ressourcen für die automatisierte Verarbeitung, indem sie die Vokabellisten für das Semantic Web bereitstellt.
+
+Darüber hinaus steigern semantischen Technologien die Effizienz in Unternehmen, indem sie große Mengen an Informationen mit vielfältigen Inhalten und Sprachen analysieren. Diese Informationen werden zur Verarbeitung und Wiederverwendung gespeichert. 
+
+
+
+
+
